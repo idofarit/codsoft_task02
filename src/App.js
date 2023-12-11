@@ -76,7 +76,7 @@ function App() {
         </motion.div>
       </div>
 
-      <div className="w-5/6 mx-auto md:h-full">
+      <div className="w-5/6 mx-auto md:h-full pt-40">
         <motion.div
           margin="0 0 -200px 0"
           amount="all"
@@ -85,7 +85,7 @@ function App() {
           <Contact />
         </motion.div>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }

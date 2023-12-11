@@ -47,7 +47,7 @@ const Testimonials = () => {
         </motion.div>
 
         <motion.div
-          className="mx-auto relative bg-rose-300 max-w-[400px] h-[350px] flex flex-col justify-end p-16 mt-48
+          className="mx-auto relative bg-red text-gray-100 max-w-[400px] h-[350px] flex flex-col justify-end p-16 mt-48
             before:absolute before:top-[-120px] before:-ml-[110px] before:left-1/2 before:content-person2"
           initial="hidden"
           whileInView="visible"
